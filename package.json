@@ -6,12 +6,12 @@
     "url": ""
   },
   "engines": {
-    "node": "~0.6.3"
+    "node": "~0.6.x"
   },
   "dependencies": {
-    "coffee-script": "*"
-    , "flatiron": "*"
-    , "union": "*"
+    "coffee-script": "~1.1.x"
+    , "flatiron": "~0.1.x"
+    , "union": "~0.1.x"
   },
   "devDependencies": {}
 }
